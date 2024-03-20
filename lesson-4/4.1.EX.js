@@ -15,7 +15,7 @@ const http= require('http');
 
 // http 상태 코드를 나타내는 상수를 제공하려면 http-status-codes 패키지가 필요하다.
 
-const httpStatus = require('http-status-code');
+const httpStatus = require('http-status-codes');
 
 // 200: OK
 
